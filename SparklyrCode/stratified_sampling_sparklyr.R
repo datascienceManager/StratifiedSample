@@ -1,27 +1,32 @@
 # ══════════════════════════════════════════════════════════════════
-#  Stratified Sampling — sparklyr (R)
-#  Works on a 10K dataset; scales to 100M+ rows on a Spark cluster
+#  Stratified Sampling — sparklyr (R / Spark)  ✅ CORRECTED
+#
+#  REQUIRES: sparklyr >= 1.5, Spark >= 3.0
+#
+#  KEY FIX:  sdf_sample_by() does NOT exist in sparklyr.
+#            The correct method is:
+#              group_by(strat_key) %>% sample_frac(pct)   -- percentage
+#              group_by(strat_key) %>% sample_n(n)        -- fixed count
+#            Both are native Spark operations (shipped in sparklyr 1.5).
 # ══════════════════════════════════════════════════════════════════
 
-library(sparklyr)
+library(sparklyr)   # >= 1.5
 library(dplyr)
 
 # ── 0. Spark session ─────────────────────────────────────────────
-sc <- spark_connect(master = "local")   # replace "local" with your cluster URL
+sc <- spark_connect(master = "local")   # replace with your cluster URL
 
 # ── 1. Load / generate the 10K population ────────────────────────
-#   (swap copy_to for spark_read_csv / spark_read_parquet in production)
 set.seed(42)
 N <- 10000
 
-sports      <- c("Football","Tennis","Padel","Motorsports","Basketball","Cricket","Swimming")
-genres      <- c("Drama","Action","Horror","Comedy","PG","Thriller","Romance")
-countries   <- c("UAE","Qatar","Egypt","Kuwait","Saudi Arabia","Bahrain","Jordan")
-languages   <- c("Arabic","English","Turkish","French","Hindi")
-content_types <- c("Sports","Entertainment")
+sports    <- c("Football","Tennis","Padel","Motorsports","Basketball","Cricket","Swimming")
+genres    <- c("Drama","Action","Horror","Comedy","PG","Thriller","Romance")
+countries <- c("UAE","Qatar","Egypt","Kuwait","Saudi Arabia","Bahrain","Jordan")
+languages <- c("Arabic","English","Turkish","French","Hindi")
 
 make_row <- function(i) {
-  ct <- sample(content_types, 1, prob = c(0.45, 0.55))
+  ct <- sample(c("Sports","Entertainment"), 1, prob = c(0.45, 0.55))
   list(
     UserID      = sample(101:200, 1),
     SportsName  = if (ct == "Sports") sample(sports, 1) else NA_character_,
@@ -40,46 +45,62 @@ pop_local <- do.call(rbind, lapply(seq_len(N), function(i) as.data.frame(make_ro
 pop_sdf   <- copy_to(sc, pop_local, "population", overwrite = TRUE)
 
 # ── 2. Build composite stratification key ────────────────────────
-#    Covers ALL categorical columns; NA → "__NA__"
 CAT_COLS <- c("ContentType", "Genre", "Country", "Language", "SportsName")
 
 pop_keyed <- pop_sdf %>%
   mutate(across(all_of(CAT_COLS), ~ if_else(is.na(.), "__NA__", as.character(.)))) %>%
   mutate(strat_key = paste(ContentType, Genre, Country, Language, SportsName, sep = " | "))
 
-n_strata <- pop_keyed %>% select(strat_key) %>% distinct() %>% count() %>% collect()
-cat("Unique strata:", n_strata$n, "\n")
+cat("Unique strata:",
+    pop_keyed %>% select(strat_key) %>% distinct() %>% count() %>% collect() %>% pull(n), "\n")
 
 # ══════════════════════════════════════════════════════════════════
-# SCENARIO A — Percentage-based stratified sample
+#  SCENARIO A — Percentage-based stratified sample
+#
+#  ✅  group_by(strat_key) %>% sample_frac(size = pct)
+#
+#  Draws `pct` fraction from EACH stratum independently.
+#  Executed as a native Spark operation — no collect() needed.
 # ══════════════════════════════════════════════════════════════════
-SAMPLE_PCT <- 0.10    # ← change to any fraction: 0.05 = 5%, 0.20 = 20%
 
-stratified_pct_sample <- function(sdf, strat_col, pct, seed = 42L) {
-  # sdf_sample returns proportional fractions per stratum
-  # Spark's sampleBy needs a named list of fractions per key
-  keys <- sdf %>%
-    select(!!sym(strat_col)) %>%
-    distinct() %>%
-    collect() %>%
-    pull(1)
+SAMPLE_PCT <- 0.10   # ← change freely: 0.05 = 5%, 0.20 = 20%, etc.
 
-  fractions <- setNames(rep(pct, length(keys)), keys)
+sample_pct_sdf <- pop_keyed %>%
+  group_by(strat_key) %>%
+  sample_frac(size = SAMPLE_PCT) %>%
+  ungroup()
 
-  sdf %>%
-    sdf_sample_by(strat_col, fractions = fractions, seed = seed)
-}
-
-sample_pct_sdf <- stratified_pct_sample(pop_keyed, "strat_key", SAMPLE_PCT)
-
-pop_count    <- sdf_nrow(pop_keyed)
-sample_count <- sdf_nrow(sample_pct_sdf)
-cat(sprintf("\nScenario A – %.0f%% sample\n  Population : %d\n  Sample     : %d (%.2f%%)\n",
-            SAMPLE_PCT * 100, pop_count, sample_count,
-            sample_count / pop_count * 100))
+pop_n    <- sdf_nrow(pop_keyed)
+samp_n   <- sdf_nrow(sample_pct_sdf)
+cat(sprintf(
+  "\nScenario A – %.0f%% sample\n  Population : %d\n  Sample     : %d (%.2f%%)\n",
+  SAMPLE_PCT * 100, pop_n, samp_n, samp_n / pop_n * 100
+))
 
 # ══════════════════════════════════════════════════════════════════
-# DISTRIBUTION VALIDATION
+#  SCENARIO B — Fixed-N per stratum  (bonus)
+#
+#  ✅  group_by(strat_key) %>% sample_n(size = N)
+#
+#  Draws exactly N rows from every stratum regardless of its size.
+#  Useful when you want equal representation across all strata.
+# ══════════════════════════════════════════════════════════════════
+
+SAMPLE_N <- 3L   # ← draw exactly 3 rows from every stratum
+
+sample_n_sdf <- pop_keyed %>%
+  group_by(strat_key) %>%
+  sample_n(size = SAMPLE_N) %>%
+  ungroup()
+
+cat(sprintf(
+  "\nScenario B – Fixed %d rows/stratum\n  Sample rows: %d\n",
+  SAMPLE_N, sdf_nrow(sample_n_sdf)
+))
+
+# ══════════════════════════════════════════════════════════════════
+#  DISTRIBUTION VALIDATION
+#  Compare population vs Scenario A sample for every categorical col
 # ══════════════════════════════════════════════════════════════════
 
 compare_distributions <- function(pop_sdf, sample_sdf, cols) {
@@ -87,45 +108,39 @@ compare_distributions <- function(pop_sdf, sample_sdf, cols) {
     pop_dist <- pop_sdf %>%
       group_by(!!sym(col)) %>%
       summarise(pop_n = n(), .groups = "drop") %>%
-      mutate(pop_pct = pop_n / sum(pop_n, na.rm = TRUE)) %>%
-      collect()
+      collect() %>%
+      mutate(pop_pct = pop_n / sum(pop_n))
 
     samp_dist <- sample_sdf %>%
       group_by(!!sym(col)) %>%
       summarise(samp_n = n(), .groups = "drop") %>%
-      mutate(samp_pct = samp_n / sum(samp_n, na.rm = TRUE)) %>%
-      collect()
+      collect() %>%
+      mutate(samp_pct = samp_n / sum(samp_n))
 
-    combined <- full_join(pop_dist, samp_dist, by = col) %>%
+    full_join(pop_dist, samp_dist, by = col) %>%
       mutate(
         pop_pct  = coalesce(pop_pct,  0),
         samp_pct = coalesce(samp_pct, 0),
-        abs_diff = abs(pop_pct - samp_pct)
+        abs_diff = abs(pop_pct - samp_pct),
+        column   = col
       ) %>%
       rename(level = !!sym(col)) %>%
-      mutate(column = col, level = as.character(level)) %>%
+      mutate(level = as.character(level)) %>%
       select(column, level, pop_pct, samp_pct, abs_diff)
-    combined
   })
   do.call(rbind, results)
 }
 
 validation_df <- compare_distributions(pop_keyed, sample_pct_sdf, CAT_COLS)
 
-cat("\n── Distribution Validation ──\n")
+cat("\n── Distribution Validation (pop vs stratified sample) ──\n")
 print(validation_df, digits = 4)
-
-cat(sprintf("\nMax absolute drift : %.4f (%.2f%%)\n",
-            max(validation_df$abs_diff), max(validation_df$abs_diff) * 100))
-cat(sprintf("Mean absolute drift: %.4f (%.2f%%)\n",
-            mean(validation_df$abs_diff), mean(validation_df$abs_diff) * 100))
+cat(sprintf("\nMax drift : %.4f (%.2f%%)\n", max(validation_df$abs_diff),  max(validation_df$abs_diff)  * 100))
+cat(sprintf("Mean drift: %.4f (%.2f%%)\n",  mean(validation_df$abs_diff), mean(validation_df$abs_diff) * 100))
 
 # ── Save outputs ─────────────────────────────────────────────────
-spark_write_csv(pop_keyed       %>% select(-strat_key), "population_10k",
-                mode = "overwrite")
-spark_write_csv(sample_pct_sdf  %>% select(-strat_key), "stratified_sample_pct",
-                mode = "overwrite")
-
+spark_write_csv(pop_keyed      %>% select(-strat_key), "population_10k",        mode = "overwrite")
+spark_write_csv(sample_pct_sdf %>% select(-strat_key), "stratified_sample_pct", mode = "overwrite")
 write.csv(validation_df, "distribution_validation.csv", row.names = FALSE)
 cat("\nFiles saved.\n")
 
