@@ -1,0 +1,1046 @@
+UserID,SportsName,ContentType,Genre,Country,Language,TotalMins,TotalCNT
+119,,Entertainment,Action,Bahrain,Arabic,19.9,333
+149,,Entertainment,Action,Bahrain,Arabic,81.7,477
+131,,Entertainment,Action,Bahrain,English,80.8,214
+171,,Entertainment,Action,Bahrain,English,32.9,1058
+140,,Entertainment,Action,Bahrain,English,48.8,289
+192,,Entertainment,Action,Bahrain,French,11.6,1036
+159,,Entertainment,Action,Bahrain,Hindi,192.6,69
+114,,Entertainment,Action,Bahrain,Turkish,20.4,611
+136,,Entertainment,Action,Egypt,Arabic,12.2,174
+200,,Entertainment,Action,Egypt,Arabic,7.7,187
+106,,Entertainment,Action,Egypt,Arabic,60.1,147
+146,,Entertainment,Action,Egypt,Arabic,123.3,1011
+110,,Entertainment,Action,Egypt,Arabic,3.3,793
+152,,Entertainment,Action,Egypt,Arabic,22.7,685
+181,,Entertainment,Action,Egypt,English,32.1,211
+111,,Entertainment,Action,Egypt,English,14.6,318
+107,,Entertainment,Action,Egypt,English,12.0,742
+159,,Entertainment,Action,Egypt,English,51.5,213
+160,,Entertainment,Action,Egypt,English,66.2,264
+181,,Entertainment,Action,Egypt,English,16.4,208
+178,,Entertainment,Action,Egypt,French,198.2,375
+116,,Entertainment,Action,Egypt,Hindi,140.5,903
+177,,Entertainment,Action,Egypt,Turkish,63.4,433
+182,,Entertainment,Action,Egypt,Turkish,1.6,202
+193,,Entertainment,Action,Jordan,Arabic,23.3,214
+132,,Entertainment,Action,Jordan,Arabic,15.0,651
+157,,Entertainment,Action,Jordan,English,20.8,596
+156,,Entertainment,Action,Jordan,French,5.3,4
+109,,Entertainment,Action,Jordan,Hindi,7.1,745
+173,,Entertainment,Action,Jordan,Turkish,7.6,452
+105,,Entertainment,Action,Kuwait,Arabic,39.2,241
+166,,Entertainment,Action,Kuwait,Arabic,62.0,99
+130,,Entertainment,Action,Kuwait,Arabic,4.0,545
+132,,Entertainment,Action,Kuwait,English,15.8,997
+156,,Entertainment,Action,Kuwait,English,92.3,281
+180,,Entertainment,Action,Kuwait,English,66.1,246
+193,,Entertainment,Action,Kuwait,English,51.5,790
+117,,Entertainment,Action,Kuwait,French,84.2,149
+172,,Entertainment,Action,Kuwait,Hindi,17.3,48
+156,,Entertainment,Action,Kuwait,Turkish,10.4,396
+184,,Entertainment,Action,Qatar,Arabic,6.1,143
+110,,Entertainment,Action,Qatar,Arabic,11.2,172
+192,,Entertainment,Action,Qatar,Arabic,211.7,62
+131,,Entertainment,Action,Qatar,Arabic,32.3,695
+120,,Entertainment,Action,Qatar,Arabic,16.5,1297
+143,,Entertainment,Action,Qatar,English,207.1,59
+171,,Entertainment,Action,Qatar,English,31.8,245
+152,,Entertainment,Action,Qatar,English,125.9,343
+184,,Entertainment,Action,Qatar,English,53.7,287
+136,,Entertainment,Action,Qatar,English,11.4,350
+112,,Entertainment,Action,Qatar,English,117.6,29
+101,,Entertainment,Action,Qatar,English,56.5,5
+111,,Entertainment,Action,Qatar,French,50.2,1106
+108,,Entertainment,Action,Qatar,French,123.1,341
+180,,Entertainment,Action,Qatar,Hindi,51.1,983
+194,,Entertainment,Action,Qatar,Turkish,153.0,728
+200,,Entertainment,Action,Saudi Arabia,Arabic,92.8,53
+165,,Entertainment,Action,Saudi Arabia,Arabic,22.8,55
+118,,Entertainment,Action,Saudi Arabia,English,16.2,87
+156,,Entertainment,Action,Saudi Arabia,English,41.7,40
+181,,Entertainment,Action,Saudi Arabia,English,13.6,1391
+191,,Entertainment,Action,Saudi Arabia,English,5.3,0
+121,,Entertainment,Action,Saudi Arabia,French,17.5,691
+184,,Entertainment,Action,Saudi Arabia,Hindi,7.2,220
+144,,Entertainment,Action,Saudi Arabia,Turkish,20.0,192
+151,,Entertainment,Action,UAE,Arabic,52.8,1212
+189,,Entertainment,Action,UAE,Arabic,53.9,849
+148,,Entertainment,Action,UAE,Arabic,9.9,402
+109,,Entertainment,Action,UAE,Arabic,57.5,644
+112,,Entertainment,Action,UAE,Arabic,61.0,299
+163,,Entertainment,Action,UAE,Arabic,27.6,248
+192,,Entertainment,Action,UAE,Arabic,35.2,732
+164,,Entertainment,Action,UAE,Arabic,7.7,1142
+136,,Entertainment,Action,UAE,English,74.7,2
+124,,Entertainment,Action,UAE,English,57.0,349
+156,,Entertainment,Action,UAE,English,1.7,211
+187,,Entertainment,Action,UAE,English,11.0,136
+163,,Entertainment,Action,UAE,English,8.6,1068
+186,,Entertainment,Action,UAE,English,155.1,497
+168,,Entertainment,Action,UAE,English,0.9,82
+170,,Entertainment,Action,UAE,French,6.9,200
+133,,Entertainment,Action,UAE,French,13.9,1617
+177,,Entertainment,Action,UAE,Hindi,144.7,470
+120,,Entertainment,Action,UAE,Hindi,41.3,627
+186,,Entertainment,Action,UAE,Turkish,15.9,657
+152,,Entertainment,Action,UAE,Turkish,67.4,737
+141,,Entertainment,Comedy,Bahrain,Arabic,3.3,186
+104,,Entertainment,Comedy,Bahrain,Arabic,59.7,1600
+175,,Entertainment,Comedy,Bahrain,English,23.3,1407
+170,,Entertainment,Comedy,Bahrain,English,51.6,757
+136,,Entertainment,Comedy,Bahrain,French,24.8,244
+117,,Entertainment,Comedy,Bahrain,Hindi,20.0,258
+117,,Entertainment,Comedy,Bahrain,Turkish,14.9,591
+157,,Entertainment,Comedy,Egypt,Arabic,28.2,1316
+120,,Entertainment,Comedy,Egypt,Arabic,105.1,419
+184,,Entertainment,Comedy,Egypt,Arabic,87.3,1281
+144,,Entertainment,Comedy,Egypt,Arabic,9.8,21
+161,,Entertainment,Comedy,Egypt,Arabic,215.7,408
+187,,Entertainment,Comedy,Egypt,English,70.5,538
+139,,Entertainment,Comedy,Egypt,English,8.1,757
+168,,Entertainment,Comedy,Egypt,English,17.4,46
+142,,Entertainment,Comedy,Egypt,English,43.9,390
+153,,Entertainment,Comedy,Egypt,English,15.1,314
+176,,Entertainment,Comedy,Egypt,French,11.3,361
+193,,Entertainment,Comedy,Egypt,Hindi,73.7,432
+170,,Entertainment,Comedy,Egypt,Turkish,212.1,521
+184,,Entertainment,Comedy,Jordan,Arabic,80.0,197
+185,,Entertainment,Comedy,Jordan,Arabic,36.8,905
+151,,Entertainment,Comedy,Jordan,English,12.0,429
+179,,Entertainment,Comedy,Jordan,English,26.5,760
+110,,Entertainment,Comedy,Jordan,English,20.1,93
+113,,Entertainment,Comedy,Jordan,French,12.0,33
+121,,Entertainment,Comedy,Jordan,Hindi,15.8,162
+196,,Entertainment,Comedy,Jordan,Turkish,44.8,221
+167,,Entertainment,Comedy,Kuwait,Arabic,172.0,17
+156,,Entertainment,Comedy,Kuwait,Arabic,70.5,129
+147,,Entertainment,Comedy,Kuwait,Arabic,13.3,55
+171,,Entertainment,Comedy,Kuwait,English,67.1,174
+145,,Entertainment,Comedy,Kuwait,English,43.0,1164
+164,,Entertainment,Comedy,Kuwait,English,41.4,612
+156,,Entertainment,Comedy,Kuwait,English,22.1,568
+122,,Entertainment,Comedy,Kuwait,English,98.0,184
+163,,Entertainment,Comedy,Kuwait,French,64.6,143
+192,,Entertainment,Comedy,Kuwait,Hindi,226.4,252
+161,,Entertainment,Comedy,Kuwait,Turkish,1.9,802
+160,,Entertainment,Comedy,Qatar,Arabic,48.8,44
+161,,Entertainment,Comedy,Qatar,Arabic,26.2,1087
+130,,Entertainment,Comedy,Qatar,Arabic,75.9,99
+129,,Entertainment,Comedy,Qatar,Arabic,119.6,264
+128,,Entertainment,Comedy,Qatar,Arabic,22.3,1424
+167,,Entertainment,Comedy,Qatar,Arabic,58.5,830
+132,,Entertainment,Comedy,Qatar,English,37.3,358
+150,,Entertainment,Comedy,Qatar,English,46.6,703
+104,,Entertainment,Comedy,Qatar,English,24.8,394
+132,,Entertainment,Comedy,Qatar,English,147.4,275
+156,,Entertainment,Comedy,Qatar,English,105.3,495
+125,,Entertainment,Comedy,Qatar,English,157.0,764
+156,,Entertainment,Comedy,Qatar,French,133.7,441
+112,,Entertainment,Comedy,Qatar,Hindi,76.0,60
+168,,Entertainment,Comedy,Qatar,Hindi,0.5,629
+142,,Entertainment,Comedy,Qatar,Turkish,81.2,268
+182,,Entertainment,Comedy,Qatar,Turkish,43.2,1111
+148,,Entertainment,Comedy,Saudi Arabia,Arabic,217.9,597
+152,,Entertainment,Comedy,Saudi Arabia,Arabic,8.4,915
+134,,Entertainment,Comedy,Saudi Arabia,Arabic,70.6,464
+136,,Entertainment,Comedy,Saudi Arabia,Arabic,123.8,66
+165,,Entertainment,Comedy,Saudi Arabia,English,10.2,466
+107,,Entertainment,Comedy,Saudi Arabia,English,98.4,199
+106,,Entertainment,Comedy,Saudi Arabia,English,10.4,59
+134,,Entertainment,Comedy,Saudi Arabia,English,9.0,89
+148,,Entertainment,Comedy,Saudi Arabia,English,34.1,68
+188,,Entertainment,Comedy,Saudi Arabia,French,93.6,100
+129,,Entertainment,Comedy,Saudi Arabia,Hindi,6.9,59
+197,,Entertainment,Comedy,Saudi Arabia,Turkish,18.9,397
+145,,Entertainment,Comedy,UAE,Arabic,31.0,1534
+108,,Entertainment,Comedy,UAE,Arabic,70.4,276
+162,,Entertainment,Comedy,UAE,Arabic,21.4,325
+157,,Entertainment,Comedy,UAE,Arabic,46.2,65
+148,,Entertainment,Comedy,UAE,Arabic,90.2,198
+124,,Entertainment,Comedy,UAE,Arabic,30.1,158
+132,,Entertainment,Comedy,UAE,Arabic,20.1,157
+170,,Entertainment,Comedy,UAE,Arabic,16.4,137
+178,,Entertainment,Comedy,UAE,Arabic,3.1,604
+195,,Entertainment,Comedy,UAE,English,13.8,195
+108,,Entertainment,Comedy,UAE,English,71.9,112
+194,,Entertainment,Comedy,UAE,English,16.3,531
+137,,Entertainment,Comedy,UAE,English,117.0,58
+141,,Entertainment,Comedy,UAE,English,1.4,319
+129,,Entertainment,Comedy,UAE,English,36.7,682
+141,,Entertainment,Comedy,UAE,English,101.4,160
+147,,Entertainment,Comedy,UAE,French,3.1,1362
+108,,Entertainment,Comedy,UAE,French,6.5,284
+193,,Entertainment,Comedy,UAE,Hindi,34.6,344
+168,,Entertainment,Comedy,UAE,Turkish,6.5,451
+190,,Entertainment,Comedy,UAE,Turkish,338.6,350
+180,,Entertainment,Drama,Bahrain,Arabic,55.1,744
+195,,Entertainment,Drama,Bahrain,English,26.4,176
+119,,Entertainment,Drama,Bahrain,French,19.1,22
+127,,Entertainment,Drama,Bahrain,Hindi,11.7,186
+186,,Entertainment,Drama,Bahrain,Turkish,47.5,372
+177,,Entertainment,Drama,Egypt,Arabic,1.4,517
+173,,Entertainment,Drama,Egypt,Arabic,12.6,991
+137,,Entertainment,Drama,Egypt,Arabic,12.0,169
+183,,Entertainment,Drama,Egypt,Arabic,86.6,441
+145,,Entertainment,Drama,Egypt,Arabic,120.0,1145
+128,,Entertainment,Drama,Egypt,English,28.0,389
+152,,Entertainment,Drama,Egypt,English,20.6,1186
+160,,Entertainment,Drama,Egypt,English,30.6,418
+165,,Entertainment,Drama,Egypt,English,82.4,1697
+144,,Entertainment,Drama,Egypt,English,2.9,448
+172,,Entertainment,Drama,Egypt,English,86.0,549
+178,,Entertainment,Drama,Egypt,French,31.4,39
+132,,Entertainment,Drama,Egypt,Hindi,18.2,57
+154,,Entertainment,Drama,Egypt,Turkish,40.1,30
+181,,Entertainment,Drama,Egypt,Turkish,103.9,609
+161,,Entertainment,Drama,Jordan,Arabic,28.4,144
+187,,Entertainment,Drama,Jordan,Arabic,9.0,621
+120,,Entertainment,Drama,Jordan,English,44.2,637
+131,,Entertainment,Drama,Jordan,English,51.9,140
+105,,Entertainment,Drama,Jordan,English,17.9,58
+196,,Entertainment,Drama,Jordan,French,0.2,34
+103,,Entertainment,Drama,Jordan,Hindi,3.5,270
+138,,Entertainment,Drama,Jordan,Turkish,14.6,1397
+200,,Entertainment,Drama,Kuwait,Arabic,30.5,3
+138,,Entertainment,Drama,Kuwait,Arabic,0.1,451
+136,,Entertainment,Drama,Kuwait,Arabic,1.9,78
+103,,Entertainment,Drama,Kuwait,English,5.1,493
+193,,Entertainment,Drama,Kuwait,English,174.0,16
+151,,Entertainment,Drama,Kuwait,English,37.4,199
+116,,Entertainment,Drama,Kuwait,English,51.5,541
+168,,Entertainment,Drama,Kuwait,French,2.3,57
+195,,Entertainment,Drama,Kuwait,French,75.7,20
+160,,Entertainment,Drama,Kuwait,Hindi,99.0,415
+170,,Entertainment,Drama,Kuwait,Turkish,7.0,16
+192,,Entertainment,Drama,Qatar,Arabic,27.9,851
+170,,Entertainment,Drama,Qatar,Arabic,82.8,1394
+155,,Entertainment,Drama,Qatar,Arabic,28.3,55
+175,,Entertainment,Drama,Qatar,Arabic,102.7,306
+149,,Entertainment,Drama,Qatar,Arabic,85.0,133
+182,,Entertainment,Drama,Qatar,Arabic,6.0,438
+174,,Entertainment,Drama,Qatar,English,14.3,480
+116,,Entertainment,Drama,Qatar,English,116.8,1103
+200,,Entertainment,Drama,Qatar,English,46.1,658
+180,,Entertainment,Drama,Qatar,English,29.1,1450
+124,,Entertainment,Drama,Qatar,English,1.7,31
+108,,Entertainment,Drama,Qatar,English,18.7,140
+149,,Entertainment,Drama,Qatar,French,71.2,413
+151,,Entertainment,Drama,Qatar,Hindi,16.9,241
+160,,Entertainment,Drama,Qatar,Turkish,120.0,39
+131,,Entertainment,Drama,Saudi Arabia,Arabic,26.3,404
+127,,Entertainment,Drama,Saudi Arabia,Arabic,98.8,907
+191,,Entertainment,Drama,Saudi Arabia,Arabic,3.6,148
+123,,Entertainment,Drama,Saudi Arabia,English,26.7,233
+175,,Entertainment,Drama,Saudi Arabia,English,127.6,248
+143,,Entertainment,Drama,Saudi Arabia,English,79.7,0
+109,,Entertainment,Drama,Saudi Arabia,English,16.1,212
+120,,Entertainment,Drama,Saudi Arabia,English,26.4,351
+190,,Entertainment,Drama,Saudi Arabia,French,29.4,444
+195,,Entertainment,Drama,Saudi Arabia,Hindi,109.7,791
+122,,Entertainment,Drama,Saudi Arabia,Turkish,52.0,96
+138,,Entertainment,Drama,UAE,Arabic,37.2,282
+159,,Entertainment,Drama,UAE,Arabic,36.8,532
+166,,Entertainment,Drama,UAE,Arabic,63.3,325
+102,,Entertainment,Drama,UAE,Arabic,1.5,1197
+163,,Entertainment,Drama,UAE,Arabic,56.7,1
+142,,Entertainment,Drama,UAE,Arabic,52.2,260
+191,,Entertainment,Drama,UAE,English,21.2,484
+194,,Entertainment,Drama,UAE,English,51.8,22
+159,,Entertainment,Drama,UAE,English,0.5,491
+108,,Entertainment,Drama,UAE,English,78.1,465
+105,,Entertainment,Drama,UAE,English,92.8,451
+112,,Entertainment,Drama,UAE,English,64.3,542
+180,,Entertainment,Drama,UAE,English,81.1,208
+181,,Entertainment,Drama,UAE,French,36.8,614
+182,,Entertainment,Drama,UAE,Hindi,151.9,537
+186,,Entertainment,Drama,UAE,Turkish,38.3,529
+155,,Entertainment,Drama,UAE,Turkish,16.0,24
+108,,Entertainment,Horror,Bahrain,Arabic,80.1,1717
+116,,Entertainment,Horror,Bahrain,Arabic,15.0,383
+167,,Entertainment,Horror,Bahrain,English,19.4,3
+137,,Entertainment,Horror,Bahrain,French,1.6,516
+168,,Entertainment,Horror,Bahrain,Hindi,27.8,215
+143,,Entertainment,Horror,Bahrain,Turkish,113.9,153
+154,,Entertainment,Horror,Egypt,Arabic,20.3,1233
+123,,Entertainment,Horror,Egypt,Arabic,46.7,812
+151,,Entertainment,Horror,Egypt,Arabic,24.0,101
+146,,Entertainment,Horror,Egypt,Arabic,22.9,12
+147,,Entertainment,Horror,Egypt,Arabic,34.7,787
+151,,Entertainment,Horror,Egypt,English,26.5,98
+190,,Entertainment,Horror,Egypt,English,175.8,124
+103,,Entertainment,Horror,Egypt,English,82.9,214
+102,,Entertainment,Horror,Egypt,English,82.4,422
+173,,Entertainment,Horror,Egypt,English,6.2,804
+196,,Entertainment,Horror,Egypt,English,5.8,330
+172,,Entertainment,Horror,Egypt,French,11.1,597
+166,,Entertainment,Horror,Egypt,Hindi,26.9,777
+175,,Entertainment,Horror,Egypt,Turkish,60.3,45
+136,,Entertainment,Horror,Jordan,Arabic,132.7,825
+148,,Entertainment,Horror,Jordan,Arabic,71.1,1109
+131,,Entertainment,Horror,Jordan,English,1.6,1356
+133,,Entertainment,Horror,Jordan,French,17.1,82
+157,,Entertainment,Horror,Jordan,Hindi,37.6,916
+183,,Entertainment,Horror,Jordan,Turkish,0.9,1645
+170,,Entertainment,Horror,Kuwait,Arabic,10.9,3
+153,,Entertainment,Horror,Kuwait,Arabic,51.8,374
+139,,Entertainment,Horror,Kuwait,English,182.3,239
+181,,Entertainment,Horror,Kuwait,English,6.1,357
+183,,Entertainment,Horror,Kuwait,English,22.1,161
+149,,Entertainment,Horror,Kuwait,English,20.1,878
+167,,Entertainment,Horror,Kuwait,French,57.6,55
+116,,Entertainment,Horror,Kuwait,Hindi,42.1,150
+107,,Entertainment,Horror,Kuwait,Turkish,37.9,309
+138,,Entertainment,Horror,Qatar,Arabic,6.1,750
+117,,Entertainment,Horror,Qatar,Arabic,177.6,500
+194,,Entertainment,Horror,Qatar,Arabic,21.4,366
+162,,Entertainment,Horror,Qatar,Arabic,7.1,149
+140,,Entertainment,Horror,Qatar,Arabic,45.6,1429
+164,,Entertainment,Horror,Qatar,English,20.6,241
+114,,Entertainment,Horror,Qatar,English,67.8,24
+158,,Entertainment,Horror,Qatar,English,57.0,413
+160,,Entertainment,Horror,Qatar,English,10.3,58
+116,,Entertainment,Horror,Qatar,English,10.5,214
+181,,Entertainment,Horror,Qatar,French,27.4,410
+125,,Entertainment,Horror,Qatar,French,8.8,146
+116,,Entertainment,Horror,Qatar,Hindi,31.0,563
+146,,Entertainment,Horror,Qatar,Turkish,31.1,668
+191,,Entertainment,Horror,Qatar,Turkish,44.2,232
+143,,Entertainment,Horror,Saudi Arabia,Arabic,29.8,932
+178,,Entertainment,Horror,Saudi Arabia,Arabic,19.2,15
+155,,Entertainment,Horror,Saudi Arabia,Arabic,104.3,768
+144,,Entertainment,Horror,Saudi Arabia,English,2.8,603
+182,,Entertainment,Horror,Saudi Arabia,English,78.0,201
+199,,Entertainment,Horror,Saudi Arabia,English,46.2,845
+198,,Entertainment,Horror,Saudi Arabia,French,23.6,176
+192,,Entertainment,Horror,Saudi Arabia,Hindi,57.2,270
+177,,Entertainment,Horror,Saudi Arabia,Turkish,61.4,1709
+168,,Entertainment,Horror,Saudi Arabia,Turkish,55.1,964
+156,,Entertainment,Horror,UAE,Arabic,1.0,715
+154,,Entertainment,Horror,UAE,Arabic,22.3,894
+182,,Entertainment,Horror,UAE,Arabic,0.6,93
+149,,Entertainment,Horror,UAE,Arabic,74.7,301
+114,,Entertainment,Horror,UAE,Arabic,5.6,872
+141,,Entertainment,Horror,UAE,Arabic,3.3,1490
+110,,Entertainment,Horror,UAE,Arabic,14.6,260
+101,,Entertainment,Horror,UAE,English,7.7,621
+164,,Entertainment,Horror,UAE,English,29.5,644
+142,,Entertainment,Horror,UAE,English,40.1,835
+169,,Entertainment,Horror,UAE,English,101.0,63
+115,,Entertainment,Horror,UAE,English,220.2,289
+172,,Entertainment,Horror,UAE,English,0.1,145
+140,,Entertainment,Horror,UAE,English,50.7,518
+166,,Entertainment,Horror,UAE,English,42.5,486
+184,,Entertainment,Horror,UAE,French,17.3,656
+187,,Entertainment,Horror,UAE,French,21.8,1140
+104,,Entertainment,Horror,UAE,French,5.1,971
+126,,Entertainment,Horror,UAE,Hindi,13.8,42
+163,,Entertainment,Horror,UAE,Turkish,33.9,1400
+150,,Entertainment,PG,Bahrain,Arabic,17.5,377
+122,,Entertainment,PG,Bahrain,Arabic,82.8,805
+114,,Entertainment,PG,Bahrain,English,113.4,798
+115,,Entertainment,PG,Bahrain,English,63.2,1046
+110,,Entertainment,PG,Bahrain,English,89.9,77
+117,,Entertainment,PG,Bahrain,French,41.7,85
+185,,Entertainment,PG,Bahrain,Hindi,49.0,104
+177,,Entertainment,PG,Bahrain,Turkish,41.1,86
+121,,Entertainment,PG,Egypt,Arabic,1.1,382
+143,,Entertainment,PG,Egypt,Arabic,14.9,1718
+140,,Entertainment,PG,Egypt,Arabic,20.4,1135
+126,,Entertainment,PG,Egypt,Arabic,47.1,238
+114,,Entertainment,PG,Egypt,English,25.0,940
+153,,Entertainment,PG,Egypt,English,13.9,74
+184,,Entertainment,PG,Egypt,English,20.6,768
+138,,Entertainment,PG,Egypt,English,107.5,421
+173,,Entertainment,PG,Egypt,English,26.9,1095
+122,,Entertainment,PG,Egypt,French,34.1,208
+192,,Entertainment,PG,Egypt,Hindi,0.6,649
+179,,Entertainment,PG,Egypt,Turkish,10.4,195
+183,,Entertainment,PG,Jordan,Arabic,73.7,1672
+130,,Entertainment,PG,Jordan,Arabic,10.2,361
+152,,Entertainment,PG,Jordan,English,29.5,52
+195,,Entertainment,PG,Jordan,English,3.4,866
+129,,Entertainment,PG,Jordan,French,8.1,245
+133,,Entertainment,PG,Jordan,Hindi,97.3,660
+129,,Entertainment,PG,Jordan,Turkish,24.0,386
+121,,Entertainment,PG,Kuwait,Arabic,72.9,70
+110,,Entertainment,PG,Kuwait,Arabic,32.8,685
+137,,Entertainment,PG,Kuwait,Arabic,3.5,448
+143,,Entertainment,PG,Kuwait,Arabic,17.9,353
+187,,Entertainment,PG,Kuwait,English,112.9,222
+175,,Entertainment,PG,Kuwait,English,43.7,130
+176,,Entertainment,PG,Kuwait,English,55.3,85
+119,,Entertainment,PG,Kuwait,French,340.6,2179
+184,,Entertainment,PG,Kuwait,Hindi,61.1,701
+197,,Entertainment,PG,Kuwait,Turkish,42.4,183
+112,,Entertainment,PG,Qatar,Arabic,53.3,340
+188,,Entertainment,PG,Qatar,Arabic,153.9,88
+166,,Entertainment,PG,Qatar,Arabic,11.0,212
+125,,Entertainment,PG,Qatar,Arabic,46.9,628
+194,,Entertainment,PG,Qatar,Arabic,92.6,260
+168,,Entertainment,PG,Qatar,English,14.5,1476
+116,,Entertainment,PG,Qatar,English,19.6,45
+166,,Entertainment,PG,Qatar,English,231.1,4302
+180,,Entertainment,PG,Qatar,English,19.8,168
+174,,Entertainment,PG,Qatar,English,61.4,556
+200,,Entertainment,PG,Qatar,English,1.1,778
+124,,Entertainment,PG,Qatar,English,20.8,1246
+131,,Entertainment,PG,Qatar,English,118.2,287
+113,,Entertainment,PG,Qatar,French,66.7,347
+188,,Entertainment,PG,Qatar,French,49.4,497
+175,,Entertainment,PG,Qatar,Hindi,1.5,293
+151,,Entertainment,PG,Qatar,Hindi,1.2,596
+140,,Entertainment,PG,Qatar,Turkish,27.2,346
+167,,Entertainment,PG,Qatar,Turkish,61.1,188
+163,,Entertainment,PG,Saudi Arabia,Arabic,35.3,605
+176,,Entertainment,PG,Saudi Arabia,Arabic,31.8,67
+176,,Entertainment,PG,Saudi Arabia,Arabic,17.3,568
+136,,Entertainment,PG,Saudi Arabia,Arabic,14.1,118
+142,,Entertainment,PG,Saudi Arabia,English,75.5,264
+172,,Entertainment,PG,Saudi Arabia,English,7.1,241
+109,,Entertainment,PG,Saudi Arabia,English,62.2,1016
+194,,Entertainment,PG,Saudi Arabia,English,29.6,405
+110,,Entertainment,PG,Saudi Arabia,French,65.8,228
+104,,Entertainment,PG,Saudi Arabia,Hindi,161.1,368
+114,,Entertainment,PG,Saudi Arabia,Turkish,17.1,584
+189,,Entertainment,PG,UAE,Arabic,98.5,327
+139,,Entertainment,PG,UAE,Arabic,9.1,289
+147,,Entertainment,PG,UAE,Arabic,16.3,69
+195,,Entertainment,PG,UAE,Arabic,10.6,355
+181,,Entertainment,PG,UAE,Arabic,10.7,25
+105,,Entertainment,PG,UAE,Arabic,29.5,382
+142,,Entertainment,PG,UAE,English,37.8,13
+122,,Entertainment,PG,UAE,English,118.3,284
+198,,Entertainment,PG,UAE,English,147.7,508
+184,,Entertainment,PG,UAE,English,232.6,296
+157,,Entertainment,PG,UAE,English,40.3,1623
+191,,Entertainment,PG,UAE,English,3.5,229
+179,,Entertainment,PG,UAE,English,89.6,1325
+143,,Entertainment,PG,UAE,English,30.1,1044
+150,,Entertainment,PG,UAE,French,30.3,748
+130,,Entertainment,PG,UAE,Hindi,0.7,248
+118,,Entertainment,PG,UAE,Hindi,1.0,945
+188,,Entertainment,PG,UAE,Turkish,4.7,270
+110,,Entertainment,PG,UAE,Turkish,90.7,424
+175,,Entertainment,Romance,Bahrain,Arabic,9.5,355
+193,,Entertainment,Romance,Bahrain,Arabic,36.3,518
+178,,Entertainment,Romance,Bahrain,Arabic,23.9,796
+131,,Entertainment,Romance,Bahrain,English,38.5,2052
+116,,Entertainment,Romance,Bahrain,English,44.6,38
+130,,Entertainment,Romance,Bahrain,French,53.8,118
+188,,Entertainment,Romance,Bahrain,Hindi,18.4,4
+176,,Entertainment,Romance,Bahrain,Turkish,46.8,371
+131,,Entertainment,Romance,Egypt,Arabic,59.0,37
+190,,Entertainment,Romance,Egypt,Arabic,6.0,454
+138,,Entertainment,Romance,Egypt,Arabic,60.9,97
+153,,Entertainment,Romance,Egypt,Arabic,5.7,910
+129,,Entertainment,Romance,Egypt,English,70.1,193
+198,,Entertainment,Romance,Egypt,English,3.8,462
+151,,Entertainment,Romance,Egypt,English,13.2,1149
+185,,Entertainment,Romance,Egypt,English,59.0,354
+198,,Entertainment,Romance,Egypt,English,43.6,2313
+143,,Entertainment,Romance,Egypt,English,135.1,1892
+116,,Entertainment,Romance,Egypt,French,5.0,388
+188,,Entertainment,Romance,Egypt,Hindi,15.6,772
+152,,Entertainment,Romance,Egypt,Turkish,28.0,2654
+172,,Entertainment,Romance,Jordan,Arabic,33.5,516
+119,,Entertainment,Romance,Jordan,Arabic,63.2,202
+117,,Entertainment,Romance,Jordan,English,72.3,37
+188,,Entertainment,Romance,Jordan,English,30.4,745
+104,,Entertainment,Romance,Jordan,French,2.5,148
+114,,Entertainment,Romance,Jordan,Hindi,51.0,88
+175,,Entertainment,Romance,Jordan,Turkish,9.8,40
+124,,Entertainment,Romance,Kuwait,Arabic,3.7,607
+114,,Entertainment,Romance,Kuwait,Arabic,36.6,187
+185,,Entertainment,Romance,Kuwait,Arabic,9.0,1117
+184,,Entertainment,Romance,Kuwait,English,14.5,65
+139,,Entertainment,Romance,Kuwait,English,113.0,4
+106,,Entertainment,Romance,Kuwait,English,28.4,744
+118,,Entertainment,Romance,Kuwait,English,147.0,461
+181,,Entertainment,Romance,Kuwait,French,24.9,201
+169,,Entertainment,Romance,Kuwait,Hindi,100.9,505
+143,,Entertainment,Romance,Kuwait,Turkish,55.7,16
+182,,Entertainment,Romance,Qatar,Arabic,0.4,102
+118,,Entertainment,Romance,Qatar,Arabic,34.0,297
+176,,Entertainment,Romance,Qatar,Arabic,74.1,21
+156,,Entertainment,Romance,Qatar,Arabic,40.4,303
+113,,Entertainment,Romance,Qatar,Arabic,7.8,55
+129,,Entertainment,Romance,Qatar,English,20.5,871
+141,,Entertainment,Romance,Qatar,English,53.0,244
+129,,Entertainment,Romance,Qatar,English,34.7,91
+186,,Entertainment,Romance,Qatar,English,12.9,304
+180,,Entertainment,Romance,Qatar,English,62.2,751
+113,,Entertainment,Romance,Qatar,English,63.4,1368
+167,,Entertainment,Romance,Qatar,French,56.1,879
+158,,Entertainment,Romance,Qatar,French,40.9,23
+159,,Entertainment,Romance,Qatar,Hindi,70.4,441
+176,,Entertainment,Romance,Qatar,Hindi,22.3,324
+133,,Entertainment,Romance,Qatar,Turkish,78.1,199
+179,,Entertainment,Romance,Saudi Arabia,Arabic,44.2,538
+193,,Entertainment,Romance,Saudi Arabia,Arabic,88.1,654
+175,,Entertainment,Romance,Saudi Arabia,Arabic,40.9,97
+182,,Entertainment,Romance,Saudi Arabia,English,1.0,20
+153,,Entertainment,Romance,Saudi Arabia,English,7.2,111
+114,,Entertainment,Romance,Saudi Arabia,English,64.4,128
+176,,Entertainment,Romance,Saudi Arabia,French,29.5,1379
+156,,Entertainment,Romance,Saudi Arabia,Hindi,34.6,714
+155,,Entertainment,Romance,Saudi Arabia,Turkish,13.7,208
+176,,Entertainment,Romance,UAE,Arabic,52.3,38
+171,,Entertainment,Romance,UAE,Arabic,6.2,89
+168,,Entertainment,Romance,UAE,Arabic,72.7,635
+116,,Entertainment,Romance,UAE,Arabic,13.2,124
+178,,Entertainment,Romance,UAE,Arabic,28.5,499
+123,,Entertainment,Romance,UAE,Arabic,11.6,164
+154,,Entertainment,Romance,UAE,Arabic,118.2,67
+103,,Entertainment,Romance,UAE,English,39.8,186
+117,,Entertainment,Romance,UAE,English,102.1,1382
+128,,Entertainment,Romance,UAE,English,103.4,283
+149,,Entertainment,Romance,UAE,English,4.5,1587
+144,,Entertainment,Romance,UAE,English,163.2,135
+144,,Entertainment,Romance,UAE,English,37.0,889
+154,,Entertainment,Romance,UAE,English,48.2,166
+173,,Entertainment,Romance,UAE,French,61.6,565
+156,,Entertainment,Romance,UAE,Hindi,7.3,35
+167,,Entertainment,Romance,UAE,Turkish,133.0,36
+146,,Entertainment,Romance,UAE,Turkish,18.9,329
+197,,Entertainment,Thriller,Bahrain,Arabic,22.3,324
+144,,Entertainment,Thriller,Bahrain,Arabic,10.9,491
+156,,Entertainment,Thriller,Bahrain,English,9.1,2364
+155,,Entertainment,Thriller,Bahrain,English,1.1,230
+148,,Entertainment,Thriller,Bahrain,French,59.1,490
+147,,Entertainment,Thriller,Bahrain,Hindi,4.0,320
+198,,Entertainment,Thriller,Bahrain,Turkish,5.2,161
+115,,Entertainment,Thriller,Egypt,Arabic,11.9,3
+110,,Entertainment,Thriller,Egypt,Arabic,50.2,721
+121,,Entertainment,Thriller,Egypt,Arabic,19.2,285
+184,,Entertainment,Thriller,Egypt,Arabic,27.8,932
+182,,Entertainment,Thriller,Egypt,Arabic,185.1,2223
+138,,Entertainment,Thriller,Egypt,English,99.2,1493
+158,,Entertainment,Thriller,Egypt,English,10.3,691
+182,,Entertainment,Thriller,Egypt,English,1.6,289
+184,,Entertainment,Thriller,Egypt,English,81.4,300
+122,,Entertainment,Thriller,Egypt,English,260.3,47
+157,,Entertainment,Thriller,Egypt,English,54.6,176
+136,,Entertainment,Thriller,Egypt,French,24.4,2053
+101,,Entertainment,Thriller,Egypt,Hindi,158.9,51
+165,,Entertainment,Thriller,Egypt,Turkish,44.6,327
+184,,Entertainment,Thriller,Egypt,Turkish,24.2,548
+195,,Entertainment,Thriller,Jordan,Arabic,55.7,236
+119,,Entertainment,Thriller,Jordan,Arabic,212.0,28
+194,,Entertainment,Thriller,Jordan,English,34.0,166
+195,,Entertainment,Thriller,Jordan,English,71.7,353
+130,,Entertainment,Thriller,Jordan,French,287.4,278
+139,,Entertainment,Thriller,Jordan,Hindi,14.7,820
+195,,Entertainment,Thriller,Jordan,Turkish,12.7,1036
+164,,Entertainment,Thriller,Kuwait,Arabic,64.6,719
+145,,Entertainment,Thriller,Kuwait,Arabic,19.6,109
+117,,Entertainment,Thriller,Kuwait,Arabic,49.4,160
+141,,Entertainment,Thriller,Kuwait,Arabic,57.3,290
+183,,Entertainment,Thriller,Kuwait,English,33.5,102
+136,,Entertainment,Thriller,Kuwait,English,31.4,391
+186,,Entertainment,Thriller,Kuwait,English,17.9,359
+132,,Entertainment,Thriller,Kuwait,English,2.4,19
+130,,Entertainment,Thriller,Kuwait,French,9.9,471
+158,,Entertainment,Thriller,Kuwait,Hindi,12.8,473
+147,,Entertainment,Thriller,Kuwait,Turkish,144.4,1141
+175,,Entertainment,Thriller,Qatar,Arabic,28.6,1690
+132,,Entertainment,Thriller,Qatar,Arabic,85.6,308
+174,,Entertainment,Thriller,Qatar,Arabic,40.3,891
+134,,Entertainment,Thriller,Qatar,Arabic,3.6,148
+151,,Entertainment,Thriller,Qatar,Arabic,50.2,4
+154,,Entertainment,Thriller,Qatar,English,13.5,666
+145,,Entertainment,Thriller,Qatar,English,56.9,751
+198,,Entertainment,Thriller,Qatar,English,4.8,648
+197,,Entertainment,Thriller,Qatar,English,5.6,201
+175,,Entertainment,Thriller,Qatar,English,75.1,406
+144,,Entertainment,Thriller,Qatar,English,52.0,108
+117,,Entertainment,Thriller,Qatar,English,0.5,1732
+157,,Entertainment,Thriller,Qatar,French,2.4,21
+141,,Entertainment,Thriller,Qatar,French,21.5,45
+200,,Entertainment,Thriller,Qatar,Hindi,75.4,10
+179,,Entertainment,Thriller,Qatar,Turkish,9.1,51
+168,,Entertainment,Thriller,Qatar,Turkish,2.4,610
+143,,Entertainment,Thriller,Saudi Arabia,Arabic,30.9,1324
+164,,Entertainment,Thriller,Saudi Arabia,Arabic,9.2,2027
+148,,Entertainment,Thriller,Saudi Arabia,Arabic,1.2,94
+154,,Entertainment,Thriller,Saudi Arabia,Arabic,47.5,402
+138,,Entertainment,Thriller,Saudi Arabia,English,25.0,677
+190,,Entertainment,Thriller,Saudi Arabia,English,12.3,1143
+121,,Entertainment,Thriller,Saudi Arabia,English,14.7,1666
+189,,Entertainment,Thriller,Saudi Arabia,English,0.9,485
+179,,Entertainment,Thriller,Saudi Arabia,French,3.3,1152
+102,,Entertainment,Thriller,Saudi Arabia,Hindi,73.4,253
+118,,Entertainment,Thriller,Saudi Arabia,Turkish,18.8,142
+188,,Entertainment,Thriller,UAE,Arabic,42.1,1092
+159,,Entertainment,Thriller,UAE,Arabic,18.8,374
+178,,Entertainment,Thriller,UAE,Arabic,10.4,349
+177,,Entertainment,Thriller,UAE,Arabic,14.1,173
+191,,Entertainment,Thriller,UAE,Arabic,52.1,215
+126,,Entertainment,Thriller,UAE,Arabic,13.1,416
+118,,Entertainment,Thriller,UAE,English,66.3,1410
+168,,Entertainment,Thriller,UAE,English,12.7,677
+183,,Entertainment,Thriller,UAE,English,40.1,1181
+113,,Entertainment,Thriller,UAE,English,20.4,800
+165,,Entertainment,Thriller,UAE,English,19.9,1656
+131,,Entertainment,Thriller,UAE,English,10.2,284
+120,,Entertainment,Thriller,UAE,English,82.8,1315
+191,,Entertainment,Thriller,UAE,English,152.2,376
+187,,Entertainment,Thriller,UAE,English,28.3,569
+199,,Entertainment,Thriller,UAE,English,24.7,176
+140,,Entertainment,Thriller,UAE,French,117.7,314
+160,,Entertainment,Thriller,UAE,Hindi,58.2,35
+125,,Entertainment,Thriller,UAE,Hindi,50.5,84
+113,,Entertainment,Thriller,UAE,Turkish,42.5,1116
+140,,Entertainment,Thriller,UAE,Turkish,109.5,166
+186,Basketball,Sports,,Bahrain,,209.5,912
+185,Basketball,Sports,,Bahrain,,35.0,107
+193,Basketball,Sports,,Bahrain,,246.9,570
+186,Basketball,Sports,,Bahrain,,112.4,29
+151,Basketball,Sports,,Bahrain,,117.6,187
+145,Basketball,Sports,,Bahrain,,9.1,1037
+160,Cricket,Sports,,Bahrain,,2.3,589
+114,Cricket,Sports,,Bahrain,,23.4,26
+173,Cricket,Sports,,Bahrain,,88.8,589
+171,Football,Sports,,Bahrain,,34.0,559
+143,Football,Sports,,Bahrain,,34.8,142
+183,Football,Sports,,Bahrain,,5.8,307
+120,Football,Sports,,Bahrain,,176.9,20
+162,Motorsports,Sports,,Bahrain,,17.3,1955
+103,Motorsports,Sports,,Bahrain,,138.1,89
+127,Motorsports,Sports,,Bahrain,,83.4,1369
+186,Motorsports,Sports,,Bahrain,,47.8,400
+145,Motorsports,Sports,,Bahrain,,9.4,1997
+138,Motorsports,Sports,,Bahrain,,35.0,374
+108,Padel,Sports,,Bahrain,,23.9,828
+115,Padel,Sports,,Bahrain,,6.1,52
+190,Padel,Sports,,Bahrain,,5.8,626
+194,Padel,Sports,,Bahrain,,115.5,17
+158,Padel,Sports,,Bahrain,,147.0,38
+124,Swimming,Sports,,Bahrain,,47.0,833
+171,Swimming,Sports,,Bahrain,,36.4,913
+174,Swimming,Sports,,Bahrain,,3.8,682
+113,Swimming,Sports,,Bahrain,,13.5,120
+111,Tennis,Sports,,Bahrain,,57.9,313
+107,Tennis,Sports,,Bahrain,,57.9,199
+117,Tennis,Sports,,Bahrain,,49.4,825
+158,Tennis,Sports,,Bahrain,,72.5,1353
+130,Basketball,Sports,,Egypt,,36.5,15
+200,Basketball,Sports,,Egypt,,56.9,1458
+116,Basketball,Sports,,Egypt,,1.8,180
+194,Basketball,Sports,,Egypt,,42.2,1219
+164,Basketball,Sports,,Egypt,,8.8,15
+138,Basketball,Sports,,Egypt,,79.3,593
+199,Basketball,Sports,,Egypt,,42.4,597
+198,Basketball,Sports,,Egypt,,61.3,1383
+101,Basketball,Sports,,Egypt,,60.0,299
+146,Basketball,Sports,,Egypt,,18.2,257
+126,Basketball,Sports,,Egypt,,47.7,960
+182,Cricket,Sports,,Egypt,,99.7,398
+179,Cricket,Sports,,Egypt,,35.8,330
+158,Cricket,Sports,,Egypt,,67.0,820
+168,Cricket,Sports,,Egypt,,56.5,105
+104,Cricket,Sports,,Egypt,,4.5,515
+190,Cricket,Sports,,Egypt,,36.6,1345
+138,Cricket,Sports,,Egypt,,21.3,452
+167,Cricket,Sports,,Egypt,,79.9,70
+189,Cricket,Sports,,Egypt,,39.6,957
+104,Cricket,Sports,,Egypt,,18.7,934
+138,Cricket,Sports,,Egypt,,5.8,41
+106,Football,Sports,,Egypt,,6.9,161
+137,Football,Sports,,Egypt,,15.2,2734
+157,Football,Sports,,Egypt,,201.3,236
+152,Football,Sports,,Egypt,,13.3,51
+131,Football,Sports,,Egypt,,29.5,279
+110,Football,Sports,,Egypt,,61.3,269
+189,Football,Sports,,Egypt,,270.9,460
+167,Football,Sports,,Egypt,,9.0,67
+160,Football,Sports,,Egypt,,83.1,45
+163,Football,Sports,,Egypt,,12.7,1651
+166,Motorsports,Sports,,Egypt,,7.8,930
+164,Motorsports,Sports,,Egypt,,53.1,215
+186,Motorsports,Sports,,Egypt,,133.4,61
+180,Motorsports,Sports,,Egypt,,9.0,1226
+114,Motorsports,Sports,,Egypt,,118.2,1156
+133,Motorsports,Sports,,Egypt,,16.8,226
+171,Motorsports,Sports,,Egypt,,83.7,522
+163,Motorsports,Sports,,Egypt,,205.4,150
+146,Motorsports,Sports,,Egypt,,11.4,829
+120,Motorsports,Sports,,Egypt,,82.3,1136
+148,Motorsports,Sports,,Egypt,,26.9,522
+103,Motorsports,Sports,,Egypt,,4.4,602
+146,Padel,Sports,,Egypt,,17.7,2766
+188,Padel,Sports,,Egypt,,36.1,123
+187,Padel,Sports,,Egypt,,93.0,563
+152,Padel,Sports,,Egypt,,74.1,137
+159,Padel,Sports,,Egypt,,108.4,432
+177,Padel,Sports,,Egypt,,79.9,883
+199,Padel,Sports,,Egypt,,167.0,325
+111,Padel,Sports,,Egypt,,21.3,686
+120,Padel,Sports,,Egypt,,103.6,615
+162,Padel,Sports,,Egypt,,60.1,611
+187,Padel,Sports,,Egypt,,12.5,43
+156,Swimming,Sports,,Egypt,,143.1,233
+182,Swimming,Sports,,Egypt,,13.4,528
+128,Swimming,Sports,,Egypt,,14.6,299
+112,Swimming,Sports,,Egypt,,279.0,594
+126,Swimming,Sports,,Egypt,,16.3,26
+162,Swimming,Sports,,Egypt,,88.0,276
+191,Swimming,Sports,,Egypt,,8.0,274
+146,Swimming,Sports,,Egypt,,153.7,793
+169,Swimming,Sports,,Egypt,,32.9,156
+199,Swimming,Sports,,Egypt,,42.9,518
+164,Swimming,Sports,,Egypt,,332.0,771
+139,Tennis,Sports,,Egypt,,30.7,182
+117,Tennis,Sports,,Egypt,,10.9,1439
+182,Tennis,Sports,,Egypt,,11.9,535
+150,Tennis,Sports,,Egypt,,30.7,324
+158,Tennis,Sports,,Egypt,,171.5,1111
+128,Tennis,Sports,,Egypt,,239.4,446
+156,Tennis,Sports,,Egypt,,37.8,1158
+191,Tennis,Sports,,Egypt,,23.3,191
+156,Tennis,Sports,,Egypt,,16.6,495
+167,Tennis,Sports,,Egypt,,92.6,516
+179,Tennis,Sports,,Egypt,,51.1,128
+196,Basketball,Sports,,Jordan,,15.5,553
+199,Basketball,Sports,,Jordan,,49.7,8
+125,Basketball,Sports,,Jordan,,5.2,913
+136,Basketball,Sports,,Jordan,,38.7,3214
+184,Cricket,Sports,,Jordan,,20.2,385
+115,Cricket,Sports,,Jordan,,42.8,683
+172,Cricket,Sports,,Jordan,,23.1,217
+194,Cricket,Sports,,Jordan,,11.0,335
+116,Football,Sports,,Jordan,,73.0,255
+189,Football,Sports,,Jordan,,19.6,1153
+145,Football,Sports,,Jordan,,42.3,357
+131,Football,Sports,,Jordan,,0.0,288
+116,Motorsports,Sports,,Jordan,,33.3,659
+139,Motorsports,Sports,,Jordan,,28.5,1349
+127,Motorsports,Sports,,Jordan,,8.9,549
+103,Motorsports,Sports,,Jordan,,90.7,1022
+106,Padel,Sports,,Jordan,,174.9,316
+111,Padel,Sports,,Jordan,,127.5,65
+132,Padel,Sports,,Jordan,,31.9,91
+176,Swimming,Sports,,Jordan,,13.8,229
+184,Swimming,Sports,,Jordan,,45.1,583
+144,Swimming,Sports,,Jordan,,3.5,14
+140,Swimming,Sports,,Jordan,,44.8,388
+174,Tennis,Sports,,Jordan,,23.4,310
+115,Tennis,Sports,,Jordan,,13.7,524
+162,Tennis,Sports,,Jordan,,5.9,794
+190,Tennis,Sports,,Jordan,,20.1,335
+198,Tennis,Sports,,Jordan,,73.1,235
+128,Basketball,Sports,,Kuwait,,2.0,312
+127,Basketball,Sports,,Kuwait,,13.3,435
+116,Basketball,Sports,,Kuwait,,12.6,16
+101,Basketball,Sports,,Kuwait,,1.4,208
+162,Basketball,Sports,,Kuwait,,74.0,1315
+173,Basketball,Sports,,Kuwait,,106.3,1134
+181,Basketball,Sports,,Kuwait,,41.6,99
+171,Basketball,Sports,,Kuwait,,6.2,16
+116,Cricket,Sports,,Kuwait,,9.9,1273
+107,Cricket,Sports,,Kuwait,,195.6,1774
+142,Cricket,Sports,,Kuwait,,27.7,665
+157,Cricket,Sports,,Kuwait,,11.6,58
+115,Cricket,Sports,,Kuwait,,114.6,10
+108,Football,Sports,,Kuwait,,7.4,0
+199,Football,Sports,,Kuwait,,49.1,458
+181,Football,Sports,,Kuwait,,107.8,689
+189,Football,Sports,,Kuwait,,24.8,1743
+158,Football,Sports,,Kuwait,,15.2,136
+176,Football,Sports,,Kuwait,,33.8,1315
+186,Football,Sports,,Kuwait,,36.2,745
+182,Motorsports,Sports,,Kuwait,,105.3,82
+186,Motorsports,Sports,,Kuwait,,215.9,76
+156,Motorsports,Sports,,Kuwait,,52.1,404
+157,Motorsports,Sports,,Kuwait,,139.2,39
+181,Motorsports,Sports,,Kuwait,,6.1,270
+195,Motorsports,Sports,,Kuwait,,34.1,161
+171,Motorsports,Sports,,Kuwait,,19.0,188
+174,Motorsports,Sports,,Kuwait,,58.3,1040
+161,Padel,Sports,,Kuwait,,59.3,384
+184,Padel,Sports,,Kuwait,,31.5,176
+109,Padel,Sports,,Kuwait,,15.8,607
+199,Padel,Sports,,Kuwait,,28.7,260
+142,Padel,Sports,,Kuwait,,53.1,484
+119,Padel,Sports,,Kuwait,,115.2,41
+124,Padel,Sports,,Kuwait,,50.9,245
+192,Padel,Sports,,Kuwait,,120.6,61
+132,Swimming,Sports,,Kuwait,,1.8,2586
+115,Swimming,Sports,,Kuwait,,57.4,170
+187,Swimming,Sports,,Kuwait,,14.8,1238
+132,Swimming,Sports,,Kuwait,,36.5,1049
+183,Swimming,Sports,,Kuwait,,50.3,275
+144,Swimming,Sports,,Kuwait,,3.1,706
+167,Swimming,Sports,,Kuwait,,1.3,32
+173,Tennis,Sports,,Kuwait,,53.5,1885
+107,Tennis,Sports,,Kuwait,,18.2,18
+154,Tennis,Sports,,Kuwait,,125.4,271
+148,Tennis,Sports,,Kuwait,,80.9,689
+124,Tennis,Sports,,Kuwait,,33.4,341
+179,Tennis,Sports,,Kuwait,,27.4,793
+109,Tennis,Sports,,Kuwait,,48.9,796
+158,Tennis,Sports,,Kuwait,,270.7,51
+156,Tennis,Sports,,Kuwait,,45.7,93
+142,Basketball,Sports,,Qatar,,107.5,38
+175,Basketball,Sports,,Qatar,,23.1,961
+149,Basketball,Sports,,Qatar,,116.1,128
+172,Basketball,Sports,,Qatar,,94.5,368
+159,Basketball,Sports,,Qatar,,42.7,68
+117,Basketball,Sports,,Qatar,,41.8,628
+187,Basketball,Sports,,Qatar,,214.7,189
+159,Basketball,Sports,,Qatar,,70.2,596
+148,Basketball,Sports,,Qatar,,39.6,308
+126,Basketball,Sports,,Qatar,,25.4,125
+123,Basketball,Sports,,Qatar,,1.6,14
+180,Basketball,Sports,,Qatar,,23.2,79
+105,Basketball,Sports,,Qatar,,118.7,1122
+165,Basketball,Sports,,Qatar,,22.8,338
+101,Cricket,Sports,,Qatar,,107.9,569
+175,Cricket,Sports,,Qatar,,6.5,179
+152,Cricket,Sports,,Qatar,,31.0,10
+166,Cricket,Sports,,Qatar,,8.1,11
+141,Cricket,Sports,,Qatar,,12.1,105
+184,Cricket,Sports,,Qatar,,13.2,529
+139,Cricket,Sports,,Qatar,,16.8,73
+139,Cricket,Sports,,Qatar,,42.1,831
+113,Cricket,Sports,,Qatar,,15.2,1069
+131,Cricket,Sports,,Qatar,,106.1,1969
+148,Cricket,Sports,,Qatar,,15.1,51
+133,Cricket,Sports,,Qatar,,7.5,254
+152,Cricket,Sports,,Qatar,,72.7,1128
+169,Football,Sports,,Qatar,,54.9,95
+178,Football,Sports,,Qatar,,109.7,734
+106,Football,Sports,,Qatar,,74.2,364
+152,Football,Sports,,Qatar,,16.2,34
+117,Football,Sports,,Qatar,,61.1,544
+120,Football,Sports,,Qatar,,136.5,363
+188,Football,Sports,,Qatar,,8.2,22
+185,Football,Sports,,Qatar,,107.6,569
+116,Football,Sports,,Qatar,,12.2,174
+146,Football,Sports,,Qatar,,67.3,826
+173,Football,Sports,,Qatar,,37.3,100
+134,Football,Sports,,Qatar,,139.1,643
+186,Football,Sports,,Qatar,,58.1,274
+139,Football,Sports,,Qatar,,216.5,167
+140,Motorsports,Sports,,Qatar,,31.3,228
+104,Motorsports,Sports,,Qatar,,66.7,1060
+162,Motorsports,Sports,,Qatar,,41.3,1316
+183,Motorsports,Sports,,Qatar,,133.8,1622
+167,Motorsports,Sports,,Qatar,,44.1,367
+107,Motorsports,Sports,,Qatar,,191.9,303
+130,Motorsports,Sports,,Qatar,,250.0,1014
+194,Motorsports,Sports,,Qatar,,3.7,918
+186,Motorsports,Sports,,Qatar,,5.1,1212
+151,Motorsports,Sports,,Qatar,,59.1,525
+177,Motorsports,Sports,,Qatar,,49.9,216
+180,Motorsports,Sports,,Qatar,,166.8,94
+116,Motorsports,Sports,,Qatar,,87.3,1380
+132,Motorsports,Sports,,Qatar,,150.3,2477
+172,Padel,Sports,,Qatar,,11.7,186
+172,Padel,Sports,,Qatar,,17.1,302
+115,Padel,Sports,,Qatar,,22.8,54
+128,Padel,Sports,,Qatar,,14.4,186
+103,Padel,Sports,,Qatar,,143.3,108
+108,Padel,Sports,,Qatar,,75.1,300
+123,Padel,Sports,,Qatar,,25.1,188
+190,Padel,Sports,,Qatar,,85.5,413
+146,Padel,Sports,,Qatar,,75.8,1255
+128,Padel,Sports,,Qatar,,115.8,897
+167,Padel,Sports,,Qatar,,36.4,236
+146,Padel,Sports,,Qatar,,16.9,760
+135,Padel,Sports,,Qatar,,36.6,504
+186,Swimming,Sports,,Qatar,,7.8,3510
+184,Swimming,Sports,,Qatar,,16.9,207
+105,Swimming,Sports,,Qatar,,6.6,1274
+169,Swimming,Sports,,Qatar,,129.2,1239
+200,Swimming,Sports,,Qatar,,2.6,676
+129,Swimming,Sports,,Qatar,,35.9,253
+109,Swimming,Sports,,Qatar,,72.8,17
+157,Swimming,Sports,,Qatar,,48.1,899
+161,Swimming,Sports,,Qatar,,45.0,212
+185,Swimming,Sports,,Qatar,,116.7,1405
+194,Swimming,Sports,,Qatar,,44.4,80
+174,Swimming,Sports,,Qatar,,3.4,1
+138,Swimming,Sports,,Qatar,,154.6,129
+165,Swimming,Sports,,Qatar,,43.4,451
+111,Tennis,Sports,,Qatar,,61.4,65
+192,Tennis,Sports,,Qatar,,50.1,333
+186,Tennis,Sports,,Qatar,,4.3,647
+183,Tennis,Sports,,Qatar,,17.1,185
+198,Tennis,Sports,,Qatar,,18.2,54
+170,Tennis,Sports,,Qatar,,56.2,197
+178,Tennis,Sports,,Qatar,,1.4,235
+167,Tennis,Sports,,Qatar,,17.8,908
+104,Tennis,Sports,,Qatar,,26.5,965
+116,Tennis,Sports,,Qatar,,32.3,368
+123,Tennis,Sports,,Qatar,,71.8,227
+131,Tennis,Sports,,Qatar,,2.3,172
+121,Tennis,Sports,,Qatar,,4.4,23
+135,Tennis,Sports,,Qatar,,17.7,71
+193,Basketball,Sports,,Saudi Arabia,,51.5,178
+150,Basketball,Sports,,Saudi Arabia,,77.6,489
+107,Basketball,Sports,,Saudi Arabia,,50.1,1512
+154,Basketball,Sports,,Saudi Arabia,,19.3,913
+138,Basketball,Sports,,Saudi Arabia,,62.7,1387
+167,Basketball,Sports,,Saudi Arabia,,27.4,42
+183,Cricket,Sports,,Saudi Arabia,,39.5,221
+117,Cricket,Sports,,Saudi Arabia,,22.3,173
+164,Cricket,Sports,,Saudi Arabia,,23.6,296
+180,Cricket,Sports,,Saudi Arabia,,23.5,116
+124,Cricket,Sports,,Saudi Arabia,,19.2,263
+102,Cricket,Sports,,Saudi Arabia,,12.9,69
+114,Cricket,Sports,,Saudi Arabia,,98.0,39
+123,Cricket,Sports,,Saudi Arabia,,1.4,152
+104,Football,Sports,,Saudi Arabia,,72.8,30
+166,Football,Sports,,Saudi Arabia,,74.2,70
+127,Football,Sports,,Saudi Arabia,,283.6,811
+182,Football,Sports,,Saudi Arabia,,21.9,1251
+171,Football,Sports,,Saudi Arabia,,23.5,8
+198,Football,Sports,,Saudi Arabia,,21.7,345
+169,Football,Sports,,Saudi Arabia,,26.8,197
+148,Football,Sports,,Saudi Arabia,,86.9,296
+153,Motorsports,Sports,,Saudi Arabia,,2.6,139
+116,Motorsports,Sports,,Saudi Arabia,,96.6,1265
+153,Motorsports,Sports,,Saudi Arabia,,40.0,370
+132,Motorsports,Sports,,Saudi Arabia,,68.4,120
+162,Motorsports,Sports,,Saudi Arabia,,20.2,87
+181,Motorsports,Sports,,Saudi Arabia,,56.9,23
+129,Motorsports,Sports,,Saudi Arabia,,153.3,762
+163,Padel,Sports,,Saudi Arabia,,41.4,556
+163,Padel,Sports,,Saudi Arabia,,33.4,11
+163,Padel,Sports,,Saudi Arabia,,112.4,115
+110,Padel,Sports,,Saudi Arabia,,24.5,474
+189,Padel,Sports,,Saudi Arabia,,33.6,147
+131,Padel,Sports,,Saudi Arabia,,13.0,1196
+139,Padel,Sports,,Saudi Arabia,,14.1,703
+192,Padel,Sports,,Saudi Arabia,,73.0,217
+114,Padel,Sports,,Saudi Arabia,,16.0,70
+195,Swimming,Sports,,Saudi Arabia,,56.5,33
+177,Swimming,Sports,,Saudi Arabia,,98.8,551
+198,Swimming,Sports,,Saudi Arabia,,133.3,492
+162,Swimming,Sports,,Saudi Arabia,,204.4,314
+110,Swimming,Sports,,Saudi Arabia,,35.1,322
+123,Swimming,Sports,,Saudi Arabia,,23.0,344
+197,Swimming,Sports,,Saudi Arabia,,10.6,7
+184,Tennis,Sports,,Saudi Arabia,,70.9,439
+158,Tennis,Sports,,Saudi Arabia,,86.5,223
+142,Tennis,Sports,,Saudi Arabia,,95.0,417
+129,Tennis,Sports,,Saudi Arabia,,96.8,344
+156,Tennis,Sports,,Saudi Arabia,,5.5,391
+173,Tennis,Sports,,Saudi Arabia,,43.2,130
+149,Tennis,Sports,,Saudi Arabia,,71.9,359
+131,Tennis,Sports,,Saudi Arabia,,95.2,69
+124,Basketball,Sports,,UAE,,3.7,356
+139,Basketball,Sports,,UAE,,46.7,135
+133,Basketball,Sports,,UAE,,65.7,390
+167,Basketball,Sports,,UAE,,108.1,108
+109,Basketball,Sports,,UAE,,2.6,552
+168,Basketball,Sports,,UAE,,33.5,256
+182,Basketball,Sports,,UAE,,122.5,422
+145,Basketball,Sports,,UAE,,6.5,2024
+121,Basketball,Sports,,UAE,,36.9,315
+112,Basketball,Sports,,UAE,,29.1,2084
+114,Basketball,Sports,,UAE,,14.7,353
+134,Basketball,Sports,,UAE,,42.7,481
+129,Basketball,Sports,,UAE,,3.4,0
+200,Basketball,Sports,,UAE,,14.9,244
+134,Basketball,Sports,,UAE,,40.1,895
+187,Basketball,Sports,,UAE,,89.7,251
+157,Cricket,Sports,,UAE,,44.4,667
+122,Cricket,Sports,,UAE,,4.3,20
+153,Cricket,Sports,,UAE,,70.5,456
+140,Cricket,Sports,,UAE,,3.3,38
+118,Cricket,Sports,,UAE,,5.3,36
+108,Cricket,Sports,,UAE,,11.7,44
+104,Cricket,Sports,,UAE,,38.9,193
+117,Cricket,Sports,,UAE,,29.1,33
+122,Cricket,Sports,,UAE,,36.5,361
+193,Cricket,Sports,,UAE,,113.0,437
+118,Cricket,Sports,,UAE,,51.9,143
+115,Cricket,Sports,,UAE,,8.1,78
+162,Cricket,Sports,,UAE,,2.1,791
+132,Cricket,Sports,,UAE,,46.7,686
+118,Cricket,Sports,,UAE,,8.0,140
+140,Football,Sports,,UAE,,90.8,871
+119,Football,Sports,,UAE,,38.6,1649
+119,Football,Sports,,UAE,,5.0,271
+171,Football,Sports,,UAE,,116.5,372
+158,Football,Sports,,UAE,,10.6,355
+185,Football,Sports,,UAE,,13.7,1212
+191,Football,Sports,,UAE,,10.9,397
+155,Football,Sports,,UAE,,7.0,129
+199,Football,Sports,,UAE,,22.4,66
+143,Football,Sports,,UAE,,4.2,2331
+192,Football,Sports,,UAE,,20.3,876
+155,Football,Sports,,UAE,,64.7,19
+131,Football,Sports,,UAE,,61.4,504
+123,Football,Sports,,UAE,,73.8,604
+130,Football,Sports,,UAE,,4.7,158
+155,Football,Sports,,UAE,,47.7,585
+177,Football,Sports,,UAE,,18.0,40
+137,Football,Sports,,UAE,,21.9,12
+186,Football,Sports,,UAE,,58.7,258
+149,Motorsports,Sports,,UAE,,27.9,76
+178,Motorsports,Sports,,UAE,,7.1,272
+162,Motorsports,Sports,,UAE,,0.0,105
+185,Motorsports,Sports,,UAE,,142.8,2084
+187,Motorsports,Sports,,UAE,,17.8,765
+186,Motorsports,Sports,,UAE,,3.8,559
+122,Motorsports,Sports,,UAE,,16.6,196
+172,Motorsports,Sports,,UAE,,59.7,174
+150,Motorsports,Sports,,UAE,,55.7,559
+186,Motorsports,Sports,,UAE,,82.0,519
+170,Motorsports,Sports,,UAE,,82.4,355
+140,Motorsports,Sports,,UAE,,63.3,881
+140,Motorsports,Sports,,UAE,,2.4,97
+104,Motorsports,Sports,,UAE,,26.0,19
+133,Motorsports,Sports,,UAE,,40.4,469
+126,Motorsports,Sports,,UAE,,15.6,922
+144,Padel,Sports,,UAE,,57.1,651
+141,Padel,Sports,,UAE,,64.4,179
+105,Padel,Sports,,UAE,,23.0,212
+127,Padel,Sports,,UAE,,48.6,849
+160,Padel,Sports,,UAE,,8.5,2113
+189,Padel,Sports,,UAE,,9.1,2009
+106,Padel,Sports,,UAE,,72.6,480
+185,Padel,Sports,,UAE,,56.2,139
+157,Padel,Sports,,UAE,,1.2,202
+103,Padel,Sports,,UAE,,160.0,658
+114,Padel,Sports,,UAE,,38.3,776
+185,Padel,Sports,,UAE,,66.3,448
+117,Padel,Sports,,UAE,,32.9,29
+150,Padel,Sports,,UAE,,44.0,97
+166,Padel,Sports,,UAE,,61.5,310
+112,Padel,Sports,,UAE,,45.3,516
+115,Swimming,Sports,,UAE,,23.8,804
+151,Swimming,Sports,,UAE,,86.4,175
+159,Swimming,Sports,,UAE,,15.8,656
+176,Swimming,Sports,,UAE,,15.0,208
+130,Swimming,Sports,,UAE,,153.8,450
+192,Swimming,Sports,,UAE,,37.2,464
+159,Swimming,Sports,,UAE,,108.0,71
+156,Swimming,Sports,,UAE,,64.5,312
+139,Swimming,Sports,,UAE,,49.3,375
+198,Swimming,Sports,,UAE,,24.9,2339
+125,Swimming,Sports,,UAE,,70.8,1141
+107,Swimming,Sports,,UAE,,86.2,185
+157,Swimming,Sports,,UAE,,17.3,673
+115,Swimming,Sports,,UAE,,0.5,142
+160,Swimming,Sports,,UAE,,39.1,792
+144,Swimming,Sports,,UAE,,61.6,511
+133,Swimming,Sports,,UAE,,2.5,949
+114,Tennis,Sports,,UAE,,88.4,669
+129,Tennis,Sports,,UAE,,32.1,338
+140,Tennis,Sports,,UAE,,38.6,628
+188,Tennis,Sports,,UAE,,47.6,377
+141,Tennis,Sports,,UAE,,21.7,2395
+104,Tennis,Sports,,UAE,,2.5,704
+144,Tennis,Sports,,UAE,,172.2,699
+155,Tennis,Sports,,UAE,,10.2,209
+179,Tennis,Sports,,UAE,,49.9,157
+104,Tennis,Sports,,UAE,,49.7,882
+145,Tennis,Sports,,UAE,,81.2,32
+182,Tennis,Sports,,UAE,,109.1,152
+115,Tennis,Sports,,UAE,,18.1,37
+132,Tennis,Sports,,UAE,,6.3,35
+189,Tennis,Sports,,UAE,,61.6,1089
