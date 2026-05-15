@@ -75,24 +75,24 @@ cat(sprintf("Population rows: %s\n", format(sdf_nrow(pop_sdf), big.mark=",")))
 # ══════════════════════════════════════════════════════════════════
 
 pop_keyed <- pop_sdf %>%
-  mutate(
+  dplyr::mutate(
     ContentType = ifelse(is.na(ContentType), "__NA__", ContentType),
     Genre       = ifelse(is.na(Genre),       "__NA__", Genre),
     Country     = ifelse(is.na(Country),     "__NA__", Country),
     Language    = ifelse(is.na(Language),    "__NA__", Language),
     SportsName  = ifelse(is.na(SportsName),  "__NA__", SportsName)
   ) %>%
-  mutate(
+  dplyr::mutate(
     strat_key = paste(ContentType, Genre, Country, Language, SportsName, sep=" | ")
   )
 
 # Count strata — this IS a Spark action (collect a 1-row count)
 n_strata <- pop_keyed %>%
-  select(strat_key) %>%
-  distinct() %>%
-  count() %>%
-  collect() %>%
-  pull(n)
+  dplyr::select(strat_key) %>%
+  sdf_distinct() %>%
+  dplyr::count() %>%
+  sdf_collect() %>%
+  dplyr::pull(n)
 
 cat(sprintf("Unique strata: %d\n", n_strata))
 
